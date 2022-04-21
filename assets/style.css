@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.box{
+    width: 60%;
+    height: 540px;
+    background-color: green;
+    margin: 5% auto;
+    outline: 30px solid orange;
+    border: 30px solid yellow;
+    padding: 3% 0% 0% 3%;
+}
+
+.text img{
+    width: 90%;
+    height: 410px;
+    margin: 5% auto;
+   
+    
+
+}
+
